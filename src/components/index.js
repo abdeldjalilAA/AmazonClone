@@ -1,0 +1,13 @@
+export { default as HomePage } from "./HomePage";
+export { default as Slider } from "./Slider";
+export { default as HomePageCard } from "./HomePageCard";
+export { default as CategoryT } from "./CategoryT";
+export { default as Productcarsol } from "./Productcarsol";
+export { default as NavBar } from "./NavBar";
+export { default as Search } from "./Search";
+export { default as SearchResult } from "./SearchResult";
+export { default as ProductPage } from "./ProductPage";
+export { default as Checkout } from "./Checkout";
+export { default as ProductDetails } from "./ProductDetails";
+export { default as ProductBadge } from "./ProductBadge";
+export { default as ProductRating } from "./ProductRating";
